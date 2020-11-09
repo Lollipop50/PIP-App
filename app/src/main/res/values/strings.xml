@@ -2,4 +2,16 @@
 
     <string name="app_name">PIP App</string>
 
+    <string name="run_service_button_text">Run service</string>
+    <string name="run_foreground_service_button_text">Run foreground service</string>
+    <string name="stop_service_button_text">Stop service</string>
+    <string name="stop_foreground_service_button_text">Stop foreground service</string>
+
+    <string name="channel_name">Channel 1</string>
+    <string name="channel_description">Channel description</string>
+    <string name="foreground_service_activity_text">ForegroundServiceActivity</string>
+    <string name="notification_title">Title</string>
+    <string name="notification_message">Message</string>
+    <string name="ticker_text">Ticker</string>
+
 </resources>
