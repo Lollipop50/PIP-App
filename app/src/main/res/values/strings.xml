@@ -2,4 +2,14 @@
 
     <string name="app_name">PIP App</string>
 
+    <string name="main_activity_text">MainActivity</string>
+    <string name="open_pip_activity_button_text">Open PipActivity</string>
+    <string name="open_video_activity_button_text">Open VideoActivity</string>
+
+    <string name="pip_activity_text">PipActivity</string>
+    <string name="launch_in_pip_button_text">Launch in PIP</string>
+
+    <string name="button_one_text">One</string>
+    <string name="button_two_text">Two</string>
+
 </resources>
